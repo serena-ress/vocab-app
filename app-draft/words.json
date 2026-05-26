@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "word": "abandon",
+    "definition": "抛弃，放弃",
+    "example": "He abandoned his car in the snow.",
+    "interval": 5,
+    "ease_factor": 2.5,
+    "next_review": "2026-05-20"
+  },
+  {
+    "id": 2,
+    "word": "benefit",
+    "definition": "利益；好处；有益于",
+    "example": "Regular exercise has many health benefits.",
+    "interval": 5,
+    "ease_factor": 2.5,
+    "next_review": "2026-05-20"
+  },
+  {
+    "id": 3,
+    "word": "challenge",
+    "definition": "挑战；质疑",
+    "example": "Climbing the mountain was a real challenge.",
+    "interval": 12,
+    "ease_factor": 2.22,
+    "next_review": "2026-05-27"
+  },
+  {
+    "id": 4,
+    "word": "delicate",
+    "definition": "精致的；脆弱的；微妙的",
+    "example": "Handle the delicate glass with care.",
+    "interval": 5,
+    "ease_factor": 2.3,
+    "next_review": "2026-05-20"
+  },
+  {
+    "id": 5,
+    "word": "efficient",
+    "definition": "高效的；有能力的",
+    "example": "This new engine is more fuel-efficient.",
+    "interval": 12,
+    "ease_factor": 2.5,
+    "next_review": "2026-05-27"
+  },
+  {
+    "id": 6,
+    "word": "gratitude",
+    "definition": "感激；感谢",
+    "example": "She expressed her gratitude with a thank-you note.",
+    "interval": 5,
+    "ease_factor": 2.5,
+    "next_review": "2026-05-20"
+  }
+]
